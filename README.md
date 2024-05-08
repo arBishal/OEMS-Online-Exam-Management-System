@@ -1,23 +1,24 @@
 ## Why This Project?
 The Covid-19 situation changed a lot in our life. We moved from offline to online. The education system also experienced the same thing. We needed something to continue the lessons and some platform to ecaluate the students. So, here we are, with our Online Exam Management System, on the rescue.
 ### Features
-You are by default an student and can claim your teacher role.
 #### Teacher Role
-*Create exams.
-*Upload qestions.
-*Participate in discussion.
-*Announce a clarification.
-*Add another teacher to his exam room.
-*Add students via CSV file.
-*Accept or decline join request from students.
-*Can choose and download the answer scripts once the exam is finished.
-*Edit profile info.
+* Create exams.
+* Upload qestions.
+* Participate in discussion.
+* Announce a clarification.
+* Add another teacher to his exam room.
+* Add students via CSV file.
+* Accept or decline join request from students.
+* Can choose and download the answer scripts once the exam is finished.
+* Edit profile info.
 #### Student Role
-*Join exams.
-*Upload answer scripts.
-*Participate in discussions.
-*See clarifications by a teacher.
-*Edit profile info.
+* Join exams.
+* Upload answer scripts.
+* Participate in discussions.
+* See clarifications by a teacher.
+* Edit profile info.
+
+N.B. You are by default an student and can claim your teacher role.
 
 ## Some Screenshots
 #### Welcome page
